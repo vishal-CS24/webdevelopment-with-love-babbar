@@ -43,7 +43,35 @@ seventh day  -- Tables
          - created 4 tables in the lecture and we have to create 2 tables in homework.
          ![t1](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/aec9dfe7-a3fb-47de-b2da-c0860252e17e)
          ![t2](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/c35bd091-1626-49a5-ac2e-09faa101e0ad)
-
-
+ lecture -8 Forms
          
+         file = indexform_d8.html
+         - In lecture of this series we learned about forms 
+         -- how to cteate forms 
+         -- what are the different tags used in forms
+         -- what are different elements of forms
+              --> input
+              --> label
+              --> select->options
+              --> button
+              --> submit
+              --> text Area
+              -->  fieldset->legend etc..
+         In homework part
+         i'm able to find the ans of the following quesions
+         -- 1 how we can select multiple elemens in dropdown (select) (by writing 'multiple' as an attribute in select tag.)
+         -- 2 How we can select 1 element in radio button ( by giving same value to the name property )
+         
+         - input tag is used in different ways by providing the value to the "type" attribute of input tag:
+            some values for type are-
+               * text                                        * email
+               * number                                      * radio
+               * checkbox                                    * date
+               * button                                      *submit
+               * etc..
+          i have created a form here is the link below
+              
+         [form1]:(https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/582a002f-21c4-4c0b-ad88-891a974f10ed)
+         
+
             
