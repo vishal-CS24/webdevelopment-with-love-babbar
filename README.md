@@ -82,5 +82,15 @@ lecture 10 project1
          learn some new tags 
          -->detail tag and summary tag
          The <details> tag specifies additional details that the user can open and close on demand
-         
+ lecture 11 - project 2 
+   
+    --> media site
+    tags used 
+    1 Audio
+    2 video
+    3 iframme
+    4 header,footer,main,section,nav etc
+    create bookmarks in single page 
+    embed outube videos on page
+    embed multiple websites on single page
             
