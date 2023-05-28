@@ -82,7 +82,7 @@ lecture 10 project1
          learn some new tags 
          -->detail tag and summary tag
          The <details> tag specifies additional details that the user can open and close on demand
- lecture 11 - project 2 
+ [lecture 11 - project 2 ](d-11media.html)
    
     --> media site
     tags used 
