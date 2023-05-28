@@ -41,8 +41,10 @@ seventh day  -- Tables
          - row span : used to extend columns
          - col span : used to extend rows
          - created 4 tables in the lecture and we have to create 2 tables in homework.
-         ![t1](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/aec9dfe7-a3fb-47de-b2da-c0860252e17e)
-         ![t2](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/c35bd091-1626-49a5-ac2e-09faa101e0ad)
+![t1](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/aec9dfe7-a3fb-47de-b2da-c0860252e17e)
+![t2](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/c35bd091-1626-49a5-ac2e-09faa101e0ad)
+  
+  
  [lecture -8,9 Forms](indexform_d8.html)
          
          file = indexform_d8.html
@@ -70,18 +72,34 @@ seventh day  -- Tables
                * button                                      *submit
                * etc..
           i have created a form here is the link below
-              
-         [form1]:(https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/582a002f-21c4-4c0b-ad88-891a974f10ed)
+
+
+https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/72565c5a-fb5b-4dc7-a02d-c2a0ca623227              
+
          
 [lecture 10 project1 ](d-10-project1_reusme.html)
 
-         --> Resume templete
+         ## 1. Resume templete
+         ## 2. Pruduct catalog
          
          one homework project
          -->  catalog page
          learn some new tags 
          -->detail tag and summary tag
          The <details> tag specifies additional details that the user can open and close on demand
+         
+## product catalog page
+
+https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/7b556a46-0a77-455c-b56a-51109af29910
+
+## resume templete
+
+
+https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/d08ef864-24b7-4f39-846b-8d00a2bc126f
+
+
+
+
  [lecture 11 - project 2 ](d-11media.html)
    
     --> media site
@@ -93,6 +111,14 @@ seventh day  -- Tables
     create bookmarks in single page 
     embed outube videos on page
     embed multiple websites on single page
+    
+ 
+ 
+
+https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/83ba7d7e-ec63-4a08-a55e-1dab56c71d2f
+
+
+ 
 lecture 12 - About Head tag
 
          --how to set title
