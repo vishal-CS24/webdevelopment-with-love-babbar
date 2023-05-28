@@ -43,7 +43,7 @@ seventh day  -- Tables
          - created 4 tables in the lecture and we have to create 2 tables in homework.
          ![t1](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/aec9dfe7-a3fb-47de-b2da-c0860252e17e)
          ![t2](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/c35bd091-1626-49a5-ac2e-09faa101e0ad)
- lecture -8 Forms
+ lecture -8,9 Forms
          
          file = indexform_d8.html
          - In lecture of this series we learned about forms 
@@ -73,5 +73,14 @@ seventh day  -- Tables
               
          [form1]:(https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/582a002f-21c4-4c0b-ad88-891a974f10ed)
          
+lecture 10 project1 
 
+         --> Resume templete
+         
+         one homework project
+         -->  catalog page
+         learn some new tags 
+         -->detail tag and summary tag
+         The <details> tag specifies additional details that the user can open and close on demand
+         
             
