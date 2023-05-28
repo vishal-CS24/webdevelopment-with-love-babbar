@@ -93,4 +93,11 @@ lecture 10 project1
     create bookmarks in single page 
     embed outube videos on page
     embed multiple websites on single page
-            
+lecture 12 - About Head tag
+
+         --how to set title
+         --how to set favicon
+         -- what are metatags
+         --how to set metatags
+         --things related to seo
+         -- how to connect css and javascript files with html page 
