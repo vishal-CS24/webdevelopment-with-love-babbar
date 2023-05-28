@@ -73,7 +73,7 @@ seventh day  -- Tables
               
          [form1]:(https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/582a002f-21c4-4c0b-ad88-891a974f10ed)
          
-lecture 10 project1 
+[lecture 10 project1 ](lecture 10 project1 )
 
          --> Resume templete
          
