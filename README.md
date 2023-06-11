@@ -127,3 +127,12 @@ lecture 12 - About Head tag
          --how to set metatags
          --things related to seo
          -- how to connect css and javascript files with html page 
+[lecture 13/14/15](css-boxmodel-properties.html) - introduction to css(cascading style sheets)
+
+         -- what is css
+         -- css box model
+         -- css font properties 
+         -- colour , border, width,height,padding etc.
+https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/8c6c5fe3-3384-418b-9a42-17f5b94f66ec
+
+
