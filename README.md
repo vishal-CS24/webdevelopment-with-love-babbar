@@ -129,7 +129,7 @@ lecture 12 - About Head tag
          -- how to connect css and javascript files with html page 
 [lecture 13/14/15](css-boxmodel-properties.html) - introduction to css(cascading style sheets)
 
-         -- what is css
+         -- what is css(cascading stule sheet)
          -- css box model
          -- css font properties 
          -- colour , border, width,height,padding etc.
