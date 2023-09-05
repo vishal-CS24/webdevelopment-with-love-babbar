@@ -27,7 +27,7 @@ sixth day -- emmets,Div tag,inline and block elements etc
          --how to cteate bookmarks
          -- inline and block elements
          -  block elements covers whole line and new block element is always in next line
-         - but inline elements are in same line and covers space according to text
+         - but inline elements are in same line and covers space according to text.
          
          -- how to convert inline to block and vice versa
          -- about Div tag -it is a non semantic tags that creates divisions in large code, it works as generic container and etc..
@@ -43,7 +43,6 @@ seventh day  -- Tables
          - created 4 tables in the lecture and we have to create 2 tables in homework.
 ![t1](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/aec9dfe7-a3fb-47de-b2da-c0860252e17e)
 ![t2](https://github.com/vishal-CS24/webdevelopment-with-love-babbar/assets/65777217/c35bd091-1626-49a5-ac2e-09faa101e0ad)
-  
   
  [lecture -8,9 Forms](indexform_d8.html)
          
