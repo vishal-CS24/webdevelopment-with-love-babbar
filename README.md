@@ -1,7 +1,7 @@
 # webdevelopment-with-love-babbar
 fourth day
 
-         -- in this file i have written the first program of html i.e Hello World and on this day i learn about the basic structure of html.
+         -- in this file i have created first page  of html i.e Hello World and on this day i learn about the basic structure of html.
 
 fifth day - tags 
 
