@@ -51,8 +51,8 @@ seventh day  -- Tables
          -- how to cteate forms 
          -- what are the different tags used in forms
          -- what are different elements of forms
-              --> input
-              --> label
+              --> input box
+              --> label 
               --> select->options
               --> button
               --> submit
