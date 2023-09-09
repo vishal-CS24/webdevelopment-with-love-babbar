@@ -1,4 +1,6 @@
 # webdevelopment-with-love-babbar
+first, second and Third day
+-- basics of web development and networking
 fourth day
 
          -- in this file i have created first page  of html i.e Hello World and on this day i learn about the basic structure of html.
